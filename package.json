@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "dependencies": {
-	"jquery": "1.10.2",
+	"jquery": "1.12.4",
     	"basicprimitives": "4.1.0",
 	"moment":"2.18.1",
 	"moment":"0.5.17",
